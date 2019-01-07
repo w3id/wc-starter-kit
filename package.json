@@ -1,0 +1,25 @@
+{
+  "name": "wc-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for your web component based Single Page Application(SPA)",
+  "main": "",
+  "dependencies": {
+    "lit-html": "^0.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3id/web-starter-kit.git"
+  },
+  "keywords": [
+    "Web",
+    "Component",
+    "Starter Kit"
+  ],
+  "author": "Yohan Totting <tyohan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3id/web-starter-kit/issues"
+  },
+  "homepage": "https://github.com/w3id/web-starter-kit#readme"
+}
